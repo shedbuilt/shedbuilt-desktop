@@ -1,0 +1,20 @@
+[submodule "wayland"]
+	path = wayland
+	url = https://github.com/shedbuilt/wayland.git
+	branch = .
+[submodule "wayland-protocols"]
+	path = wayland-protocols
+	url = https://github.com/shedbuilt/wayland-protocols.git
+	branch = .
+[submodule "libxkbcommon"]
+	path = libxkbcommon
+	url = https://github.com/shedbuilt/libxkbcommon.git
+	branch = .
+[submodule "libinput"]
+	path = libinput
+	url = https://github.com/shedbuilt/libinput.git
+	branch = .
+[submodule "weston"]
+	path = weston
+	url = https://github.com/shedbuilt/weston.git
+	branch = .
